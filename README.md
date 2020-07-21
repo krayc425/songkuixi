@@ -4,13 +4,13 @@
 
 Here are some facts about me.
 
-* 🍎 I am an indie iOS developer. You can find my apps from [here](https://itunes.apple.com/cn/developer/kuixi-song/id1052013882).
-* 📺 I am a vlogger. You can find my vlogs from [here](https://www.youtube.com/channel/UCT6lOZDEc-hrJ-yKslghT3w).
+* 🍎 I am an indie iOS developer. You can find my apps from [App Store](https://itunes.apple.com/cn/developer/kuixi-song/id1052013882).
+* 📺 I am a vlogger. You can find my vlogs from my [YouTube channel](https://www.youtube.com/channel/UCT6lOZDEc-hrJ-yKslghT3w).
 * 🌍 You can find more information on my [homepage](https://kuixisong.one).
-* 🔗 You can connect me on my [LinkedIn](https://www.linkedin.com/in/krayc425), or send me an [email](krayc425@gmail.com).
+* 🔗 You can connect me on my [LinkedIn](https://www.linkedin.com/in/krayc425), or send me an [email](mailto:krayc425@gmail.com).
 
 Here is a peek of my GitHub.
 
-[![Kuixi's Github Stats](https://github-readme-stats.vercel.app/api?username=songkuixi&hide=["prs","issues","contribs"])](https://github.com/anuraghazra/github-readme-stats)
+[![Kuixi's Github Stats](https://github-readme-stats.vercel.app/api?username=songkuixi&hide=["prs","issues"])](https://github.com/anuraghazra/github-readme-stats)
 
-#### Thank you for visiting my GitHub! Hope we can be friends😊！
+#### Thank you for visiting my GitHub! Hope we can be friends 😊！
