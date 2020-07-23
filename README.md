@@ -11,6 +11,8 @@ Here are some facts about me.
 
 Here is a peek of my GitHub.
 
-[![Kuixi's Github Stats](https://github-readme-stats.vercel.app/api?username=songkuixi&hide=["prs","issues"])](https://github.com/anuraghazra/github-readme-stats)
+[![Kuixi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=songkuixi&hide=["prs","issues"])](https://github.com/anuraghazra/github-readme-stats)
 
-#### Thank you for visiting my GitHub! Hope we can be friends 😊！
+#### Thank you for visiting my GitHub! Hope we can be friends 😊！ 
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=songkuixi.songkuixi" alt="visitor badge"/>
